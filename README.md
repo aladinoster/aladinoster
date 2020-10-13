@@ -1,6 +1,6 @@
 ### Hi there 👋 😃
 
-![](qrcode.png)
+<a href="https://www.andresladino.com/#contact"><img src="qrcode.png" alt="drawing" width="375"/></a>
 
 <!--
 **aladinoster/aladinoster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
